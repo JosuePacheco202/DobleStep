@@ -1,0 +1,218 @@
+body {
+    background-color: #0E0925;
+}
+
+.Logo {
+    width: 25vw;
+}
+
+.nav-link {
+    color: #553CCD !important;
+}
+
+.nav-link:hover {
+    color: #814EF2 !important;
+}
+
+h1 {
+    text-align: center;
+    color: #5BD3EF;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    font-size: 5rem;
+}
+
+h2 {
+    text-align: center;
+    color: #0E0925;
+    font-family: 'Abril Fatface', cursive;
+    font-weight: 400;
+    font-size: 5rem;
+}
+
+.txt2 {
+    text-align: center;
+    color: #5BD3EF;
+    font-family: 'Abril Fatface', cursive;
+    font-weight: 400;
+    font-size: 6rem;
+}
+
+h3 {
+    color: #5BD3EF;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 3rem;
+}
+
+h4 {
+    color: #d4d4d4;
+    text-align: center;
+    display: block;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 5vw 3vw
+}
+
+.nombres {
+    color: #0E0925;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 3rem;
+}
+
+p {
+    color: #d4d4d4;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 5vw 3vw
+}
+
+a {
+    color: #d4d4d4;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    padding: 5px;
+    text-decoration-line: none;
+}
+
+.card {
+    background-color: #0E0925;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    width: 100%;
+    margin: 20px;
+}
+
+.card-title {
+    color: #5BD3EF;
+    font-size:x-large;
+    margin: 2vw 1vw
+}
+
+.card-text {
+    margin: 2vw 1vw
+}
+
+.img-productos {
+    border-radius: 5px;
+    width: 100%;
+}
+
+.btn-primary {
+    background-color: #814EF2;
+    border-color: transparent
+}
+
+.pacentrar {
+    text-align: center;
+    display: flex;
+    float: right;
+}
+
+#Cabecera {
+    background-color: #0E0925;
+    text-align: center;
+    padding: 4.5rem;
+    color: #814EF2;
+    font-family: 'League Spartan', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+#Explora {
+    background-color: #814EF2;
+    text-align: center;
+    padding: 5% 0% 5% 5%;
+    margin: 0 auto;
+}
+
+#Marcas {
+    background-color: #814EF2;
+    text-align: center;
+    padding: 5% 0% 5% 5%;
+    margin: 0 auto;
+}
+
+.texto-explora {
+    align-items: center;
+    display: flex;
+}
+
+.img-explora {
+    text-align: center;
+    width: 100%;
+}
+
+.img-logos {
+    text-align: center;
+    width: 50%;
+}
+
+#Descripción {
+    text-align: center;
+    padding: 5%;
+}
+
+#Colecciones {
+    background-color: #814EF2;
+    padding: 10% 5%;
+    text-align: center;
+}
+
+#Colecciones-v2 {
+    background-color: #814EF2;
+    padding: 10%;
+    text-align: center;
+}
+
+.img-colecciones {
+    text-align: center;
+    width: 100%;
+    border-color: #0E0925;
+    background-color: #0E0925;
+    padding: 20px 20px 80px 20px;
+    border-radius: 5px;
+    margin-bottom: 40px;
+}
+
+.img-catalogo {
+    text-align: center;
+    width: 100%;
+    border-color: #0E0925;
+    background-color: #0E0925;
+    padding: 20px 20px 80px 20px;
+    border-radius: 5px;
+    margin: 0px 0px 80px 0px;
+}
+
+#OtraSección {
+    background-color: #0E0925;
+    padding: 15% 5% 5% 5%;
+}
+
+.img-OtraSección {
+    text-align: center;
+    width: 100%;
+    margin: 20px auto;
+}
+
+#footer {
+    background-color: #553CCD;
+    padding: 1%;
+    text-align: center;
+}
+
+.copy {
+    color: #0E0925;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+.container-fluid {
+    padding: 2% 10% 0%;
+    float: center;
+}
